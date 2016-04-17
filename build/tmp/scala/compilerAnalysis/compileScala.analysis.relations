@@ -1,0 +1,15 @@
+products:
+   src/main/scala/Main.scala -> build/classes/main/coegen/Main$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class
+   src/main/scala/Main.scala -> build/classes/main/coegen/Main$$anonfun$main$1.class
+   src/main/scala/Main.scala -> build/classes/main/coegen/Main$.class
+   src/main/scala/Main.scala -> build/classes/main/coegen/Main.class
+binary dependencies:
+   src/main/scala/Main.scala -> /home/boris/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.1/e11da23da3eabab9f4777b9220e60d44c1aab6a/scala-library-2.11.1.jar
+   src/main/scala/Main.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
+source dependencies:
+external dependencies:
+class names:
+   src/main/scala/Main.scala -> coegen.Main
+   src/main/scala/Main.scala -> coegen.Main$
+   src/main/scala/Main.scala -> coegen.Main$$anonfun$main$1
+   src/main/scala/Main.scala -> coegen.Main$$anonfun$main$1$$anonfun$apply$mcVI$sp$1
